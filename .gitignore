@@ -1,1 +1,32 @@
-/venv
+# PYTHON CACHE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# PYTEST CACHE
+.pytest_cache/
+
+# VIRTUAL ENVIRONMENT
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SISTEMA
+.DS_Store
+Thumbs.db
+
+# ARQUIVOS BINÁRIOS/TEMPORÁRIOS
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tmp
+*.log
