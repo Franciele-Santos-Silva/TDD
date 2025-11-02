@@ -30,3 +30,6 @@ Thumbs.db
 *.gif
 *.tmp
 *.log
+
+pytest -v
+pytest -v -s
