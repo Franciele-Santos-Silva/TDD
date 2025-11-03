@@ -58,4 +58,4 @@ Sistema de gerenciamento de contatos desenvolvido seguindo a metodologia **TDD (
    Executa testes mostrando os prints
 
     ```bash
-        pytest -v -s
+    pytest -v -s
