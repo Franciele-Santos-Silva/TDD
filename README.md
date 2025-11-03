@@ -36,14 +36,31 @@ Sistema de gerenciamento de contatos desenvolvido seguindo a metodologia **TDD (
 
 ### Instalação
 
-1. **Clone o repositório:**
+1. Clone o repositório:
 
    ```bash
    git clone [URL do repositório]
    cd TDD
 
-2. Crie e ative um ambiente virtual
+2. Crie e ative um ambiente virtual:
 
    ```bash
    python -m venv venv
    venv\Scripts\activate
+
+3. Instale as dependências do requirements.txt:
+
+   ```bash
+   pip install -r requirements.txt
+
+4. Executar Testes TDD:
+
+Executa todos os testes
+
+   ```bash
+   pytest -v
+
+Executa testes mostrando os prints
+
+   ```bash
+   pytest -v -s
