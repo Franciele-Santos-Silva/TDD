@@ -60,6 +60,7 @@ Executa todos os testes
    ```bash
    pytest -v
 
+
 Executa testes mostrando os prints
 
    ```bash

@@ -1,4 +1,4 @@
-# BUGLOG - Registro do Ciclo de Vida de Erros
+# Registro do Ciclo de Vida de Erros
 
 | ID | Função Afetada | Descrição do Erro | Estado Atual | Responsável | Decisão/Motivo | Tempo (min) |
 |----|----------------|-------------------|--------------|-------------|----------------|-------------|
