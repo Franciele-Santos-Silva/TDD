@@ -4,6 +4,14 @@
 
 Sistema de gerenciamento de contatos desenvolvido seguindo a metodologia **TDD (Test-Driven Development)**. O projeto implementa operações CRUD (Create, Read, Update, Delete) com validações robustas para garantir a integridade dos dados.
 
+## Tecnologias e Bibliotecas
+
+### **Linguagem e Ferramentas**
+
+- **Python 3.10+** - Linguagem de programação principal
+- **pytest** - Framework de testes automatizados
+- **re** - Biblioteca nativa para expressões regulares
+
 ## Funcionalidades Implementadas
 
 ### Operações CRUD
@@ -30,6 +38,12 @@ Sistema de gerenciamento de contatos desenvolvido seguindo a metodologia **TDD (
 
 1. **Clone o repositório:**
 
-```bash
-git clone [URL do repositório]
-cd TDD
+  ```bash
+  git clone [URL do repositório]
+  cd TDD
+
+2. Crie e ative um ambiente virtual
+
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
