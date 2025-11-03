@@ -1,7 +1,6 @@
 import re
 
 def validar_email(email):
-    """Verifica se o e-mail tem formato válido."""
     return re.match(r"[^@]+@[^@]+\.[^@]+", email)
 
 class ContatoManager:
