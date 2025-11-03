@@ -55,12 +55,8 @@ Sistema de gerenciamento de contatos desenvolvido seguindo a metodologia **TDD (
 
 4. Executar Testes TDD:
 
-Executa todos os testes
-
-   ```bash
-    pytest -v
-
 Executa testes mostrando os prints
 
    ```bash
    pytest -v -s
+
