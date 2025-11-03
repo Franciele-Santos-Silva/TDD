@@ -38,12 +38,12 @@ Sistema de gerenciamento de contatos desenvolvido seguindo a metodologia **TDD (
 
 1. **Clone o repositório:**
 
-  ```bash
-  git clone [URL do repositório]
-  cd TDD
+   ```bash
+   git clone [URL do repositório]
+   cd TDD
 
 2. Crie e ative um ambiente virtual
 
-  ```bash
-  python -m venv venv
-  venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
