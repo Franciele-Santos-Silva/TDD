@@ -1,4 +1,4 @@
-# Gerenciador de Contatos - Atividade TDD
+# Gerenciador de Contatos
 
 ## Sobre o Projeto
 
